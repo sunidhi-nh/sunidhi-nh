@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sunidhi 👋
 
-<!--
-**sunidhi-nh/sunidhi-nh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics Engineering (VLSI Design and Technology) student building practical, full-stack solutions across web and embedded systems.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Mabarelé](https://www.mabarelé.com)** — *Where clothing isn't worn, it's expressed.*
+A full-stack fashion e-commerce platform I independently designed, built, and deployed end to end, frontend, backend, and database. Currently finishing up before public launch.
+- Frontend: HTML, CSS, JavaScript
+- Backend & Database: MongoDB
+- Deployment: Vercel
+
+**Gesture-Based Wireless Control Glove**
+A wearable built with an ESP32 and flex sensor that converts finger-bend gestures into real-time wireless keyboard commands for hands-free control. Shortlisted under PUPA — The Maker's Movement (2025–26).
+
+## 🛠️ Skills
+
+`C` `C++` `Python` `JavaScript` `HTML` `CSS` `MongoDB` `IoT (ESP32, Arduino)` `Git`
+
+## 📫 Connect
+
+- Website: [mabarelé.com](https://www.mabarelé.com)
+- Email: sunidhinarsapur@gmail.com
