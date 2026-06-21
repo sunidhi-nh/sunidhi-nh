@@ -24,5 +24,5 @@ A wearable built with an ESP32 and flex sensor that converts finger-bend gesture
 
 ## 📫 Connect
 
-- Website: [mabarelé.com](https://www.mabarelé.com)
+- Linkedin: https://www.linkedin.com/in/sunidhi-n-ab2aa72a8/
 - Email: sunidhinarsapur@gmail.com
