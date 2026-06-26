@@ -20,7 +20,7 @@ A wearable built with an ESP32 and flex sensor that converts finger-bend gesture
 
 ## 🛠️ Skills
 
-`C` `C++` `Python` `JavaScript` `HTML` `CSS` `MongoDB` `Node.js` `Vercel` `IoT (ESP32, Arduino)` `Git`
+`C` `C++` `Python` `JavaScript` `HTML` `CSS` `MongoDB` `Node.js` `Vercel` `IoT (ESP32, Arduino)` `Next.js` `AWS Amplify hosting` `React` `Express.js` `Git` `Vite` 
 
 ## 📫 Connect
 
