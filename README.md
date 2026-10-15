@@ -1,28 +1,24 @@
-# Hi, I'm Sunidhi 👋
+# Sunidhi
 
-**Builder of things that work, end to end.** Electronics Engineering (VLSI Design and Technology) student shipping full-stack web platforms and embedded systems solo, from architecture to deployment.
+Electronics Engineering (VLSI Design and Technology) student. I build full-stack web platforms and embedded systems on my own, from architecture to deployment.
 
-## 🚀 What I'm Working On
+## Projects
 
-**[Mabarelé](https://www.mabarelé.com)** — *Where clothing isn't worn, it's expressed.*
-A full-stack fashion e-commerce platform independently architected, built, and deployed end to end. Public site is in "launching soon" mode while the full build is finished and hardened locally.
-- **Frontend:** HTML, CSS, JavaScript — responsive UI/UX engineered for accessibility and engagement
-- **Backend:** Node-based API layer handling product, cart, and order logic
-- **Database:** MongoDB for product, user, and order data modeling
-- **Deployment:** Vercel, with CI-style redeploys on push
-- **Solved:** intermittent build failures traced to inconsistent environment variable loading and DB connection timeouts during deploy, fixed with fallback connection handling and consistent env config
+### Mabarelé
+Full-stack fashion e-commerce platform, built and deployed independently. The public site is in "launching soon" mode while I finish and harden the full build locally.
 
-**Gesture-Based Wireless Control Glove**
-A wearable built with an ESP32 and flex sensor that converts finger-bend gestures into real-time wireless keyboard commands for hands-free control.
-- Real-time sensor data pipeline over wireless transmission, mapped to host-device keyboard actions
-- Fixed false-trigger issues from sensor noise using a debounce threshold + rolling-average smoothing
-- Shortlisted under PUPA — The Maker's Movement (2025–26) for gaming and assistive-tech applications
+- **Frontend:** HTML, CSS, JavaScript. Responsive, built with accessibility in mind
+- **Backend:** Node API for product, cart, and order logic
+- **Database:** MongoDB for product, user, and order data
+- **Deployment:** Vercel, redeploys on push
+- **Problem solved:** Intermittent build failures caused by inconsistent environment variable loading and DB connection timeouts during deploy. Fixed with consistent env config and fallback connection handling
 
-## 🛠️ Skills
+### Gesture-Based Wireless Control Glove
+ESP32 and flex sensor that turn finger-bend gestures into real-time wireless keyboard commands, for hands-free control.
 
-`C` `C++` `Python` `JavaScript` `HTML` `CSS` `MongoDB` `Node.js` `Vercel` `IoT (ESP32, Arduino)` `Next.js` `AWS Amplify hosting` `React` `Express.js` `Git` `Vite` 
+- Real-time sensor data pipeline over wireless transmission, mapped to keyboard actions on the host device
+- Fixed false triggers from sensor noise using a debounce threshold and rolling-average smoothing
+- Shortlisted under PUPA: The Maker's Movement (2025-26) for gaming and assistive-tech applications
 
-## 📫 Connect
-
-- Linkedin: https://www.linkedin.com/in/sunidhi-n-ab2aa72a8/
-- Email: sunidhinarsapur@gmail.com
+## Contact
+[LinkedIn](https://www.linkedin.com/in/sunidhi-n-ab2aa72a8?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Email](mailto: sunidhinarsapur@gmail.com)
