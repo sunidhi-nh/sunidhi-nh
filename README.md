@@ -21,4 +21,4 @@ ESP32 and flex sensor that turn finger-bend gestures into real-time wireless key
 - Shortlisted under PUPA: The Maker's Movement (2025-26) for gaming and assistive-tech applications
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/sunidhi-n-ab2aa72a8?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Email](mailto: sunidhinarsapur@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sunidhi-n-ab2aa72a8?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Email](mailto:sunidhinarsapur@gmail.com)
